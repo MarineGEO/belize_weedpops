@@ -19,7 +19,7 @@ library(piecewiseSEM)
 library(readxl)
 library(tidyverse)
 
-setwd("C:/Users/lefcheckj/OneDrive - Smithsonian Institution/Documents/MarineGEO/Squidpop GoPro")
+setwd("C:/Users/lefcheckj/OneDrive - Smithsonian Institution/Documents/GitHub/belize_weedpops")
 
 #---------------------------------------------------------------------------
 
